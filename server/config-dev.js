@@ -3,7 +3,7 @@ var host = "http://localhost:8080";
 
 this.config = {
 	root: "../client",
-	host: "0.0.0.0",
+	host: null,
 	port: 8080,
 	shutdownTimeout: 3,
 	index: "index.html",
