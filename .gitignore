@@ -1,6 +1,5 @@
 server/node_modules
 server/secret
-client/data
 .kateproject
 .directory
 .kateproject.d
